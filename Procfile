@@ -1,1 +1,1 @@
-web: TZ=Asia/Tokyo yarn serve
+web: TZ=Asia/Tokyo npm run serve
